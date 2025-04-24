@@ -1,0 +1,15 @@
+tensorflow
+tensorflow_hub
+numpy
+cv2
+typing
+os
+pandas
+movenet
+wget
+import 
+csv
+tqdm
+BodyPart
+keras
+train_test_split
